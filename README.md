@@ -1,7 +1,7 @@
 cookbook
 ========
 
-#For AlfredWorkFlow2 菜谱搜索
+For AlfredWorkFlow2 菜谱搜索
 
 ![](src/icon.png)
 
