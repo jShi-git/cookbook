@@ -6,7 +6,7 @@ cookbook
 ![](src/icon.png)
 
 ##安装
-[点我直接下载“视频下载.workflows”](https://raw.githubusercontent.com/jShi-git/video-searcher/master/download/%E8%A7%86%E9%A2%91%E4%B8%8B%E8%BD%BD.alfredworkflow)
+[点我直接下载“菜谱.workflows”](https://raw.githubusercontent.com/jShi-git/cookbook/master/download/%E8%8F%9C%E8%B0%B1.alfredworkflow)
 
 ##项目说明
 输入食材或菜名，搜索菜谱
